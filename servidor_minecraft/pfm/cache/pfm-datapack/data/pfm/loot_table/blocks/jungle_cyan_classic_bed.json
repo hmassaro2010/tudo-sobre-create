@@ -1,0 +1,24 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "jungle_cyan_classic_bed",
+      "entries": [
+        {
+          "conditions": [
+            {
+              "block": "pfm:jungle_cyan_classic_bed",
+              "properties": {
+                "part": "head"
+              },
+              "condition": "minecraft:block_state_property"
+            }
+          ],
+          "name": "pfm:jungle_cyan_classic_bed",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

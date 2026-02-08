@@ -1,0 +1,36 @@
+{
+  "result": {
+    "outputClass": "ClassicBedBlock",
+    "components": {
+      "pfm:color": "orange"
+    }
+  },
+  "supportedVariants": [
+    "minecraft:oak",
+    "minecraft:bamboo",
+    "minecraft:spruce",
+    "minecraft:birch",
+    "minecraft:jungle",
+    "minecraft:acacia",
+    "minecraft:cherry",
+    "minecraft:dark_oak",
+    "minecraft:mangrove",
+    "minecraft:crimson",
+    "minecraft:warped",
+    "cataclysm:chorus",
+    "deeperdarker:echo",
+    "vinery:dark_cherry"
+  ],
+  "ingredients": {
+    "vanillaIngredients": [
+      {
+        "item": "minecraft:orange_bed"
+      }
+    ],
+    "variantChildren": {
+      "fence": 2,
+      "base": 3
+    }
+  },
+  "type": "pfm:dynamic_furniture"
+}

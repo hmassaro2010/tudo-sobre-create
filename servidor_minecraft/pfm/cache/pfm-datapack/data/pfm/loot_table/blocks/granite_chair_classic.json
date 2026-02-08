@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "granite_chair_classic",
+      "entries": [
+        {
+          "name": "pfm:granite_chair_classic",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "obsidian_cataclysm_simple_stool",
+      "entries": [
+        {
+          "name": "pfm:obsidian_cataclysm_simple_stool",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "gray_stove",
+      "entries": [
+        {
+          "name": "pfm:gray_stove",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

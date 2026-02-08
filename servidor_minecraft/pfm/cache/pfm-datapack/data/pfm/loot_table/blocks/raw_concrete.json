@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "raw_concrete",
+      "entries": [
+        {
+          "name": "pfm:raw_concrete",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

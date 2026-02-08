@@ -1,0 +1,15 @@
+
+
+[mods]
+CreativeCore_NEOFORGE_v2.13.24_mc1.21.1.jar
+Geophilic v3.4.5.mod.jar
+amendments-1.21-2.0.14-neoforge.jar
+artifacts-neoforge-13.1.0.jar
+kotlinforforge-5.10.0-all.jar
+lootr-neoforge-1.21.1-1.11.36.110.jar
+moonlight-1.21-2.29.9-neoforge.jar
+sophisticatedbackpacks-1.21.1-3.25.23.1491.jar
+sophisticatedcore-1.21.1-1.3.101.1354.jar
+
+[kubejs.server_scripts]
+main.js

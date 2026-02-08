@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "cut_deepslate_create_chair",
+      "entries": [
+        {
+          "name": "pfm:cut_deepslate_create_chair",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

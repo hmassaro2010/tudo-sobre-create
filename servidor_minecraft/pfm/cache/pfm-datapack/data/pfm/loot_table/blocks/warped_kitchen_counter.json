@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "warped_kitchen_counter",
+      "entries": [
+        {
+          "name": "pfm:warped_kitchen_counter",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

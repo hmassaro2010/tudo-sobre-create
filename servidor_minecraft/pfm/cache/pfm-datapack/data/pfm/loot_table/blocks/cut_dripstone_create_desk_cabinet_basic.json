@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "cut_dripstone_create_desk_cabinet_basic",
+      "entries": [
+        {
+          "name": "pfm:cut_dripstone_create_desk_cabinet_basic",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

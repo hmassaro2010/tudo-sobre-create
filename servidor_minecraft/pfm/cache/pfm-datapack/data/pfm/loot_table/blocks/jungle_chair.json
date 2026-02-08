@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "jungle_chair",
+      "entries": [
+        {
+          "name": "pfm:jungle_chair",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

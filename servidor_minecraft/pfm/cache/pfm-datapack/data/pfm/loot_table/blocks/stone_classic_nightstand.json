@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "stone_classic_nightstand",
+      "entries": [
+        {
+          "name": "pfm:stone_classic_nightstand",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

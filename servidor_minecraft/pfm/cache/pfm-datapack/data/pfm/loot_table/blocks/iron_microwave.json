@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "iron_microwave",
+      "entries": [
+        {
+          "name": "pfm:iron_microwave",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

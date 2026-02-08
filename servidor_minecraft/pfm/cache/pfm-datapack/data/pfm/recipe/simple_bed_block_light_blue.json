@@ -1,0 +1,35 @@
+{
+  "result": {
+    "outputClass": "SimpleBedBlock",
+    "components": {
+      "pfm:color": "light_blue"
+    }
+  },
+  "supportedVariants": [
+    "minecraft:oak",
+    "minecraft:bamboo",
+    "minecraft:spruce",
+    "minecraft:birch",
+    "minecraft:jungle",
+    "minecraft:acacia",
+    "minecraft:cherry",
+    "minecraft:dark_oak",
+    "minecraft:mangrove",
+    "minecraft:crimson",
+    "minecraft:warped",
+    "cataclysm:chorus",
+    "deeperdarker:echo",
+    "vinery:dark_cherry"
+  ],
+  "ingredients": {
+    "vanillaIngredients": [
+      {
+        "item": "minecraft:light_blue_bed"
+      }
+    ],
+    "variantChildren": {
+      "base": 5
+    }
+  },
+  "type": "pfm:dynamic_furniture"
+}

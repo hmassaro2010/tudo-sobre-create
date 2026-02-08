@@ -1,0 +1,24 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "chorus_cataclysm_orange_simple_bed",
+      "entries": [
+        {
+          "conditions": [
+            {
+              "block": "pfm:chorus_cataclysm_orange_simple_bed",
+              "properties": {
+                "part": "head"
+              },
+              "condition": "minecraft:block_state_property"
+            }
+          ],
+          "name": "pfm:chorus_cataclysm_orange_simple_bed",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

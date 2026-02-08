@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "calcite_desk_basic",
+      "entries": [
+        {
+          "name": "pfm:calcite_desk_basic",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

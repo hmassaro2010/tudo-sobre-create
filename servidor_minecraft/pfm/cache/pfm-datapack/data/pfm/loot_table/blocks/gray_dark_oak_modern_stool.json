@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "gray_dark_oak_modern_stool",
+      "entries": [
+        {
+          "name": "pfm:gray_dark_oak_modern_stool",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

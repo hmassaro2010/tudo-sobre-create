@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "sandstone_cataclysm_kitchen_cabinet",
+      "entries": [
+        {
+          "name": "pfm:sandstone_cataclysm_kitchen_cabinet",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

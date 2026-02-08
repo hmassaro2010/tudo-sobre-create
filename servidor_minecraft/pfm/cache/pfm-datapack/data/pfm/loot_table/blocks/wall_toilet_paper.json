@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "wall_toilet_paper",
+      "entries": [
+        {
+          "name": "pfm:wall_toilet_paper",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

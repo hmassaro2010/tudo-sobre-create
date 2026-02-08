@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "deepslate_table_natural",
+      "entries": [
+        {
+          "name": "pfm:deepslate_table_natural",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

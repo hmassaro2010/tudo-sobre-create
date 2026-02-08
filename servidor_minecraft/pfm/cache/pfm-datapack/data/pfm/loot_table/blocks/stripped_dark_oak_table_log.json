@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "stripped_dark_oak_table_log",
+      "entries": [
+        {
+          "name": "pfm:stripped_dark_oak_table_log",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "quartz_chair_classic",
+      "entries": [
+        {
+          "name": "pfm:quartz_chair_classic",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

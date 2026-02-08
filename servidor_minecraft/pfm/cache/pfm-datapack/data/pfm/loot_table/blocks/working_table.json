@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "working_table",
+      "entries": [
+        {
+          "name": "pfm:working_table",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

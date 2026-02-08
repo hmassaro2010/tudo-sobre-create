@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "bamboo_table_classic",
+      "entries": [
+        {
+          "name": "pfm:bamboo_table_classic",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

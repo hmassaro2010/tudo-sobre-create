@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "cut_scorchia_create_kitchen_wall_drawer",
+      "entries": [
+        {
+          "name": "pfm:cut_scorchia_create_kitchen_wall_drawer",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

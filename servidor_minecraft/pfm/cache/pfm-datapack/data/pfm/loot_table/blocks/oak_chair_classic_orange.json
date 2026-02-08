@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "oak_chair_classic_orange",
+      "entries": [
+        {
+          "name": "pfm:oak_chair_classic_orange",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "light_wood_table_natural",
+      "entries": [
+        {
+          "name": "pfm:light_wood_table_natural",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

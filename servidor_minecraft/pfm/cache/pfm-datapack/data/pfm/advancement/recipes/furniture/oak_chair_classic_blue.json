@@ -1,0 +1,32 @@
+{
+  "criteria": {
+    "oak_chair_classic_blue": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:blue_wool"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pfm:oak_chair_classic_blue"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "oak_chair_classic_blue"
+    ]
+  ],
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "pfm:oak_chair_classic_blue"
+    ]
+  }
+}

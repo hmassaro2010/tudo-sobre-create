@@ -1,0 +1,24 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "basic_bathtub",
+      "entries": [
+        {
+          "conditions": [
+            {
+              "block": "pfm:basic_bathtub",
+              "properties": {
+                "part": "head"
+              },
+              "condition": "minecraft:block_state_property"
+            }
+          ],
+          "name": "pfm:basic_bathtub",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

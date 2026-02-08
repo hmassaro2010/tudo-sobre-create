@@ -1,0 +1,22 @@
+[02:03:48] [INIT] KubeJS 2101.7.2-build.348; MC 2101 NeoForge
+[02:03:48] [INIT] Loaded plugins:
+[02:03:48] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSPlugin
+[02:03:48] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
+[02:03:48] [INFO] Loaded script server_scripts:main.js in 0.013 s
+[02:03:48] [INFO] Loaded 1/1 KubeJS server scripts in 0.042 s with 0 errors and 0 warnings
+[02:03:53] [INFO] Processing recipes...
+[02:03:53] [INFO] Initializing recipe event...
+[02:03:53] [WARN] KubeRecipe.java#89: Failed to parse recipe 'deeperdarker:resonarium_pickaxe_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Failed to read required component 'template: ingredient' - java.lang.IllegalStateException: Failed to parse either. First: Item array cannot be empty, at least one item must be defined; Second: Not a JSON object: []
+[02:03:53] [WARN] KubeRecipe.java#89: Failed to parse recipe 'deeperdarker:resonarium_hoe_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Failed to read required component 'template: ingredient' - java.lang.IllegalStateException: Failed to parse either. First: Item array cannot be empty, at least one item must be defined; Second: Not a JSON object: []
+[02:03:53] [WARN] KubeRecipe.java#89: Failed to parse recipe 'deeperdarker:resonarium_leggings_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Failed to read required component 'template: ingredient' - java.lang.IllegalStateException: Failed to parse either. First: Item array cannot be empty, at least one item must be defined; Second: Not a JSON object: []
+[02:03:53] [WARN] KubeRecipe.java#89: Failed to parse recipe 'deeperdarker:resonarium_sword_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Failed to read required component 'template: ingredient' - java.lang.IllegalStateException: Failed to parse either. First: Item array cannot be empty, at least one item must be defined; Second: Not a JSON object: []
+[02:03:53] [WARN] KubeRecipe.java#89: Failed to parse recipe 'deeperdarker:resonarium_helmet_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Failed to read required component 'template: ingredient' - java.lang.IllegalStateException: Failed to parse either. First: Item array cannot be empty, at least one item must be defined; Second: Not a JSON object: []
+[02:03:54] [WARN] KubeRecipe.java#89: Failed to parse recipe 'deeperdarker:resonarium_chestplate_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Failed to read required component 'template: ingredient' - java.lang.IllegalStateException: Failed to parse either. First: Item array cannot be empty, at least one item must be defined; Second: Not a JSON object: []
+[02:03:54] [WARN] KubeRecipe.java#89: Failed to parse recipe 'deeperdarker:resonarium_shovel_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Failed to read required component 'template: ingredient' - java.lang.IllegalStateException: Failed to parse either. First: Item array cannot be empty, at least one item must be defined; Second: Not a JSON object: []
+[02:03:54] [WARN] KubeRecipe.java#89: Failed to parse recipe 'deeperdarker:resonarium_axe_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Failed to read required component 'template: ingredient' - java.lang.IllegalStateException: Failed to parse either. First: Item array cannot be empty, at least one item must be defined; Second: Not a JSON object: []
+[02:03:54] [WARN] KubeRecipe.java#89: Failed to parse recipe 'deeperdarker:resonarium_boots_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Failed to read required component 'template: ingredient' - java.lang.IllegalStateException: Failed to parse either. First: Item array cannot be empty, at least one item must be defined; Second: Not a JSON object: []
+[02:03:54] [INFO] Found 6,909 recipes (skipped 703) in 486.7 ms
+[02:03:54] [INFO] Posted recipe events in 338 ms
+[02:03:54] [INFO] KubeJS modifications to recipe manager finished in 20.23 ms
+[02:03:54] [INFO] Added 9 recipes, removed 21 recipes, modified 2 recipes, with 0 failed recipes taking 1.087 s in total
+[02:03:58] [INFO] Server resource reload complete!

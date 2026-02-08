@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "stripped_cherry_table_modern_dinner",
+      "entries": [
+        {
+          "name": "pfm:stripped_cherry_table_modern_dinner",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

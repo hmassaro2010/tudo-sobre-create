@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "mangrove_chair_dinner",
+      "entries": [
+        {
+          "name": "pfm:mangrove_chair_dinner",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

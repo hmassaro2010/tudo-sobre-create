@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "purpur_stoneworks_chair",
+      "entries": [
+        {
+          "name": "pfm:purpur_stoneworks_chair",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

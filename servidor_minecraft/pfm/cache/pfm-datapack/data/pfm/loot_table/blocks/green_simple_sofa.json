@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "green_simple_sofa",
+      "entries": [
+        {
+          "name": "pfm:green_simple_sofa",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}
