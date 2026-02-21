@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "jungle_raw_table_log",
+      "entries": [
+        {
+          "name": "pfm:jungle_raw_table_log",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

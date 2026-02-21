@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "iron_freezer",
+      "entries": [
+        {
+          "name": "pfm:iron_freezer",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

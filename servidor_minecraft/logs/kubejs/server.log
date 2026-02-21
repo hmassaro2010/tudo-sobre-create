@@ -1,0 +1,27 @@
+[16:07:22] [INIT] KubeJS 2101.7.2-build.348; MC 2101 NeoForge
+[16:07:22] [INIT] Loaded plugins:
+[16:07:22] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSPlugin
+[16:07:22] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
+[16:07:22] [INFO] Loaded script server_scripts:main.js in 0.017 s
+[16:07:22] [INFO] Loaded 1/1 KubeJS server scripts in 0.049 s with 0 errors and 0 warnings
+[16:07:27] [INFO] Processing recipes...
+[16:07:27] [INFO] Initializing recipe event...
+[16:07:27] [WARN] KubeRecipe.java#89: Failed to parse recipe 'deeperdarker:resonarium_hoe_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Failed to read required component 'template: ingredient' - java.lang.IllegalStateException: Failed to parse either. First: Item array cannot be empty, at least one item must be defined; Second: Not a JSON object: []
+[16:07:27] [WARN] KubeRecipe.java#89: Failed to parse recipe 'deeperdarker:resonarium_sword_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Failed to read required component 'template: ingredient' - java.lang.IllegalStateException: Failed to parse either. First: Item array cannot be empty, at least one item must be defined; Second: Not a JSON object: []
+[16:07:27] [WARN] KubeRecipe.java#89: Failed to parse recipe 'deeperdarker:resonarium_helmet_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Failed to read required component 'template: ingredient' - java.lang.IllegalStateException: Failed to parse either. First: Item array cannot be empty, at least one item must be defined; Second: Not a JSON object: []
+[16:07:27] [WARN] KubeRecipe.java#89: Failed to parse recipe 'nayutilities:syringe[minecraft:crafting_shaped]'! Falling back to vanilla: Failed to read required component 'result: item_stack' - java.lang.IllegalStateException: No key id in MapLike[{"count":1,"item":"nayutilities:syringe"}]
+[16:07:27] [WARN] RecipeComponentValue.java#102: Failed to parse recipe 'bellsandwhistles:metro/metro_window[minecraft:crafting_shapeless]' @ [ingredients][1]! Falling back to vanilla: Invalid component ingredients: ingredient[] - Component 'ingredient' is not allowed to be empty!
+[16:07:27] [WARN] RecipeComponentValue.java#102: Failed to parse recipe 'createfood:minecraft/crafting/compat/displaydelight/bowl_cheesecake_from_crafting[minecraft:crafting_shapeless]' @ [ingredients][0]! Falling back to vanilla: Invalid component ingredients: ingredient[] - Component 'ingredient' is not allowed to be empty!
+[16:07:27] [WARN] KubeRecipe.java#89: Failed to parse recipe 'deeperdarker:resonarium_pickaxe_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Failed to read required component 'template: ingredient' - java.lang.IllegalStateException: Failed to parse either. First: Item array cannot be empty, at least one item must be defined; Second: Not a JSON object: []
+[16:07:27] [WARN] KubeRecipe.java#89: Failed to parse recipe 'deeperdarker:resonarium_leggings_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Failed to read required component 'template: ingredient' - java.lang.IllegalStateException: Failed to parse either. First: Item array cannot be empty, at least one item must be defined; Second: Not a JSON object: []
+[16:07:27] [WARN] KubeRecipe.java#89: Failed to parse recipe 'deeperdarker:resonarium_chestplate_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Failed to read required component 'template: ingredient' - java.lang.IllegalStateException: Failed to parse either. First: Item array cannot be empty, at least one item must be defined; Second: Not a JSON object: []
+[16:07:27] [WARN] KubeRecipe.java#89: Failed to parse recipe 'deeperdarker:resonarium_shovel_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Failed to read required component 'template: ingredient' - java.lang.IllegalStateException: Failed to parse either. First: Item array cannot be empty, at least one item must be defined; Second: Not a JSON object: []
+[16:07:27] [WARN] KubeRecipe.java#89: Failed to parse recipe 'deeperdarker:resonarium_axe_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Failed to read required component 'template: ingredient' - java.lang.IllegalStateException: Failed to parse either. First: Item array cannot be empty, at least one item must be defined; Second: Not a JSON object: []
+[16:07:27] [WARN] KubeRecipe.java#89: Failed to parse recipe 'deeperdarker:resonarium_boots_smithing[minecraft:smithing_transform]'! Falling back to vanilla: Failed to read required component 'template: ingredient' - java.lang.IllegalStateException: Failed to parse either. First: Item array cannot be empty, at least one item must be defined; Second: Not a JSON object: []
+[16:07:27] [INFO] Found 12,747 recipes (skipped 1,981) in 584.1 ms
+[16:07:28] [WARN] server_scripts:main.js#97: Failed to read ingredient from refinedstorage:quartz_eriched_iron: Item with ID refinedstorage:quartz_eriched_iron does not exist!
+[16:07:28] [WARN] server_scripts:main.js#100: Failed to read ingredient from refinedstorage:quartz_eriched_copper: Item with ID refinedstorage:quartz_eriched_copper does not exist!
+[16:07:28] [INFO] Posted recipe events in 660 ms
+[16:07:28] [INFO] KubeJS modifications to recipe manager finished in 33.32 ms
+[16:07:28] [INFO] Added 39 recipes, removed 55 recipes, modified 36 recipes, with 0 failed recipes taking 1.572 s in total
+[16:07:32] [INFO] Server resource reload complete!

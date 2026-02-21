@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "deepslate_modern_stool",
+      "entries": [
+        {
+          "name": "pfm:deepslate_modern_stool",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

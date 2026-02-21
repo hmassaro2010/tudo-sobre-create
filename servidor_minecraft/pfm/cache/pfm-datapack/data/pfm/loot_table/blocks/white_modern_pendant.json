@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "white_modern_pendant",
+      "entries": [
+        {
+          "name": "pfm:white_modern_pendant",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

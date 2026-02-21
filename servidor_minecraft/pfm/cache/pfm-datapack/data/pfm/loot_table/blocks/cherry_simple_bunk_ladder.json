@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "cherry_simple_bunk_ladder",
+      "entries": [
+        {
+          "name": "pfm:cherry_simple_bunk_ladder",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

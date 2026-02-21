@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "mangrove_kitchen_cabinet",
+      "entries": [
+        {
+          "name": "pfm:mangrove_kitchen_cabinet",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

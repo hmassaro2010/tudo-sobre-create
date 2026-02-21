@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "basalt_chair_dinner",
+      "entries": [
+        {
+          "name": "pfm:basalt_chair_dinner",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

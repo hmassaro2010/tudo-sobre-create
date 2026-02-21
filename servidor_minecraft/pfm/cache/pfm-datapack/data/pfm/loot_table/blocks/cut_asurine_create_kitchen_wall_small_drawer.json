@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "cut_asurine_create_kitchen_wall_small_drawer",
+      "entries": [
+        {
+          "name": "pfm:cut_asurine_create_kitchen_wall_small_drawer",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

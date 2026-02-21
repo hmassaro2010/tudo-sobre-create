@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "chorus_cataclysm_table_classic",
+      "entries": [
+        {
+          "name": "pfm:chorus_cataclysm_table_classic",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "deepslate_kitchen_sink",
+      "entries": [
+        {
+          "name": "pfm:deepslate_kitchen_sink",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

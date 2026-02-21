@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "end_stone_stoneworks_chair",
+      "entries": [
+        {
+          "name": "pfm:end_stone_stoneworks_chair",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

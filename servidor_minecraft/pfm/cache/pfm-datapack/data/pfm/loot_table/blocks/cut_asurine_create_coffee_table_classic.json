@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "cut_asurine_create_coffee_table_classic",
+      "entries": [
+        {
+          "name": "pfm:cut_asurine_create_coffee_table_classic",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

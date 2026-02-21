@@ -1,0 +1,24 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "warped_light_gray_classic_bed",
+      "entries": [
+        {
+          "conditions": [
+            {
+              "block": "pfm:warped_light_gray_classic_bed",
+              "properties": {
+                "part": "head"
+              },
+              "condition": "minecraft:block_state_property"
+            }
+          ],
+          "name": "pfm:warped_light_gray_classic_bed",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

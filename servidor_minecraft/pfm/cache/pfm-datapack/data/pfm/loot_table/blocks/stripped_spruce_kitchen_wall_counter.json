@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "stripped_spruce_kitchen_wall_counter",
+      "entries": [
+        {
+          "name": "pfm:stripped_spruce_kitchen_wall_counter",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

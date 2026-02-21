@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "cut_calcite_create_simple_stool",
+      "entries": [
+        {
+          "name": "pfm:cut_calcite_create_simple_stool",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "basic_toilet",
+      "entries": [
+        {
+          "name": "pfm:basic_toilet",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

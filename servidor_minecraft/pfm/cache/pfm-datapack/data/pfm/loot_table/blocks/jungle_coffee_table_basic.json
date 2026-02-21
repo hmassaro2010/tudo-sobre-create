@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "jungle_coffee_table_basic",
+      "entries": [
+        {
+          "name": "pfm:jungle_coffee_table_basic",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

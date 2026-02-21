@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "mangrove_herringbone_planks",
+      "entries": [
+        {
+          "name": "pfm:mangrove_herringbone_planks",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

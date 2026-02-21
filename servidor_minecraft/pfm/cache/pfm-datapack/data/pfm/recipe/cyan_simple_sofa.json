@@ -1,0 +1,28 @@
+{
+  "group": "chairs",
+  "result": {
+    "id": "pfm:cyan_simple_sofa",
+    "count": 2
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:cyan_wool"
+    },
+    {
+      "item": "minecraft:cyan_wool"
+    },
+    {
+      "item": "minecraft:oak_log"
+    },
+    {
+      "item": "minecraft:oak_log"
+    },
+    {
+      "item": "minecraft:oak_log"
+    },
+    {
+      "item": "minecraft:oak_log"
+    }
+  ],
+  "type": "pfm:simple_furniture"
+}

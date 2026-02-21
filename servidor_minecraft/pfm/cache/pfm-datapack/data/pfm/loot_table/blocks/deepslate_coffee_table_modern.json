@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "deepslate_coffee_table_modern",
+      "entries": [
+        {
+          "name": "pfm:deepslate_coffee_table_modern",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

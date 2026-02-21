@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "stone_simple_stool",
+      "entries": [
+        {
+          "name": "pfm:stone_simple_stool",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

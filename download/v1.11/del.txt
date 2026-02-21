@@ -1,0 +1,11 @@
+
+
+[mods..index]
+mpalladium.pw.toml
+ars-nouveau.pw.toml
+
+[mods]
+Palladium-1.1.8-1.21-1.21.1.jar
+
+[kubejs.server_scripts]
+main.js

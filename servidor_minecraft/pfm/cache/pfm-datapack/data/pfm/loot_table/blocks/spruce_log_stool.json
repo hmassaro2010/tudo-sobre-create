@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "spruce_log_stool",
+      "entries": [
+        {
+          "name": "pfm:spruce_log_stool",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

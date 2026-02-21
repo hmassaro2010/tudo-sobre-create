@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "andesite_oak_kitchen_sink",
+      "entries": [
+        {
+          "name": "pfm:andesite_oak_kitchen_sink",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

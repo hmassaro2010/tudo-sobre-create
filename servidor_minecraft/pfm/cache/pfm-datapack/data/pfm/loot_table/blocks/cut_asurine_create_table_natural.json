@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "cut_asurine_create_table_natural",
+      "entries": [
+        {
+          "name": "pfm:cut_asurine_create_table_natural",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

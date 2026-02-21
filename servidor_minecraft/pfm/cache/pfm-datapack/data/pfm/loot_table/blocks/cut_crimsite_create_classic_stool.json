@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "cut_crimsite_create_classic_stool",
+      "entries": [
+        {
+          "name": "pfm:cut_crimsite_create_classic_stool",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "group": "chairs",
+  "result": {
+    "id": "pfm:froggy_chair_light_blue",
+    "count": 4
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:light_blue_concrete"
+    },
+    {
+      "item": "minecraft:light_blue_concrete"
+    },
+    {
+      "item": "minecraft:light_blue_concrete"
+    },
+    {
+      "item": "minecraft:light_blue_concrete"
+    },
+    {
+      "item": "minecraft:light_blue_concrete"
+    },
+    {
+      "item": "minecraft:light_blue_concrete"
+    }
+  ],
+  "type": "pfm:simple_furniture"
+}

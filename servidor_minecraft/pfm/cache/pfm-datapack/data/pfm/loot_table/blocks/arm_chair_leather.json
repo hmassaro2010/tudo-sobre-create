@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "arm_chair_leather",
+      "entries": [
+        {
+          "name": "pfm:arm_chair_leather",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

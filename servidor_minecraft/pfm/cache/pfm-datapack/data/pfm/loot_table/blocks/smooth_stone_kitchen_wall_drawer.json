@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "smooth_stone_kitchen_wall_drawer",
+      "entries": [
+        {
+          "name": "pfm:smooth_stone_kitchen_wall_drawer",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

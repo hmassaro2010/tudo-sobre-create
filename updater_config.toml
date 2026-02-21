@@ -1,0 +1,14 @@
+# Caminho para o .minecraft
+minecraft-path = "/workspaces/tudo-sobre-create/servidor_minecraft"
+
+# Repositório do modpack
+modpack-repo = "RiardoSilva/upadate-modpack-1"
+
+# Token de autorização (opicional)
+auth-token = "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"
+
+# Limpa os arquivos de versão baixados.
+clear-download = false
+
+# É um servidor?
+is-server = true

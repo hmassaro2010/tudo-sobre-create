@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "stripped_birch_chair",
+      "entries": [
+        {
+          "name": "pfm:stripped_birch_chair",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

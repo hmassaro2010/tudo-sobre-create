@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "spruce_kitchen_counter_oven",
+      "entries": [
+        {
+          "name": "pfm:spruce_kitchen_counter_oven",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

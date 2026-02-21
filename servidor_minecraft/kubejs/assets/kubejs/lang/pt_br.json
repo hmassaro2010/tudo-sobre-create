@@ -1,0 +1,15 @@
+{
+    "kubejs.item.incomplete_logic_processor_press": "Prensa Lógica Incompleta",
+    "kubejs.item.incomplete_calculation_processor_press": "Prensa de Cálculo Incompleta",
+    "kubejs.item.incomplete_engineering_processor_press": "Prensa de Engenharia Incompleta",
+    "kubejs.item.incomplete_silicon_press": "Prensa de Silício Incompleta",
+
+    "kubejs.item.incomplete_printed_calculation_processor": "Circuito Impresso de Cálculo Incompleto",
+    "kubejs.item.incomplete_printed_logic_processor": "Circuito Impresso Lógico Incompleto",
+    "kubejs.item.incomplete_printed_engineering_processor": "Circuito Impresso de Engenharia Incompleto",
+    "kubejs.item.incomplete_printed_silicon": "Circuito Impresso de Silício Incompleto",
+
+    "kubejs.item.incomplete_calculation_processor": "Processador de Cálculo Incompleto",
+    "kubejs.item.incomplete_engineering_processor": "Processador de Engenharia Incompleto",
+    "kubejs.item.incomplete_logic_processor": "Processador Lógico Incompleto"
+}

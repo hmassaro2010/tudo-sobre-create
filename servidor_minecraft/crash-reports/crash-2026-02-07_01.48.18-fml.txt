@@ -1,0 +1,81 @@
+---- Minecraft Crash Report ----
+// Oops.
+
+Time: 2026-02-07 01:48:18
+Description: Mod loading failures have occurred; consult the issue messages for more details
+
+net.neoforged.neoforge.logging.CrashReportExtender$ModLoadingCrashException: Mod loading has failed
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Mod loading issue for: easyanvils --
+Details:
+	Mod file: /workspaces/tudo-sobre-create/servidor_minecraft/mods/EasyAnvils-v21.1.0-1.21.1-NeoForge.jar
+	Failure message: Mod easyanvils requires puzzleslib 21.1.9 or above
+		Currently, puzzleslib is not installed
+		
+	Mod version: 21.1.0
+	Mod issues URL: https://github.com/Fuzss/easyanvils/issues
+	Exception message: <No associated exception found>
+
+-- Mod loading issue for: stoneworks --
+Details:
+	Mod file: /workspaces/tudo-sobre-create/servidor_minecraft/mods/Stoneworks-v21.1.0-1.21.1-NeoForge.jar
+	Failure message: Mod stoneworks requires puzzleslib 21.1.7 or above
+		Currently, puzzleslib is not installed
+		
+	Mod version: 21.1.0
+	Mod issues URL: https://github.com/Fuzss/stoneworks/issues
+	Exception message: <No associated exception found>
+
+-- Mod loading issue for: leavesbegone --
+Details:
+	Mod file: /workspaces/tudo-sobre-create/servidor_minecraft/mods/LeavesBeGone-v21.1.0-1.21.1-NeoForge.jar
+	Failure message: Mod leavesbegone requires puzzleslib 21.1.7 or above
+		Currently, puzzleslib is not installed
+		
+	Mod version: 21.1.0
+	Mod issues URL: https://github.com/Fuzss/leavesbegone/issues
+	Exception message: <No associated exception found>
+
+-- Mod loading issue for: relics --
+Details:
+	Mod file: /workspaces/tudo-sobre-create/servidor_minecraft/mods/relics-1.21.1-0.11.6.jar
+	Failure message: Mod relics requires octolib 0.5.0.1 or above
+		Currently, octolib is not installed
+		
+	Mod version: 0.11.6
+	Mod issues URL: https://discord.gg/pHren9yxzW
+	Exception message: <No associated exception found>
+
+-- System Details --
+Details:
+	Minecraft Version: 1.21.1
+	Minecraft Version ID: 1.21.1
+	Operating System: Linux (amd64) version 6.8.0-1030-azure
+	Java Version: 21.0.10, Ubuntu
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Ubuntu
+	Memory: 1569254312 bytes (1496 MiB) / 2147483648 bytes (2048 MiB) up to 12884901888 bytes (12288 MiB)
+	CPUs: 4
+	JVM Flags: 2 total; -Xms2G -Xmx12G
+	ModLauncher: 11.0.5+main.901c6ea8
+	ModLauncher launch target: forgeserver
+	ModLauncher services: 
+		sponge-mixin-0.15.2+mixin.0.8.7.jar mixin PLUGINSERVICE 
+		loader-4.0.42.jar slf4jfixer PLUGINSERVICE 
+		loader-4.0.42.jar runtime_enum_extender PLUGINSERVICE 
+		at-modlauncher-10.0.1.jar accesstransformer PLUGINSERVICE 
+		loader-4.0.42.jar runtimedistcleaner PLUGINSERVICE 
+		modlauncher-11.0.5.jar mixin TRANSFORMATIONSERVICE 
+		modlauncher-11.0.5.jar fml TRANSFORMATIONSERVICE 
+		modlauncher-11.0.5.jar connector_loader TRANSFORMATIONSERVICE 
+	FML Language Providers: 
+		kotlinforforge@5.11.0
+		javafml@4.0
+		lowcodefml@4.0
+		minecraft@4.0
+	Mod List: 
+		server-1.21.1-20240808.144430-srg.jar             |Minecraft                     |minecraft                     |1.21.1              |Manifest: NOSIGNATURE
+		neoforge-21.1.218-universal.jar                   |NeoForge                      |neoforge                      |21.1.218            |Manifest: NOSIGNATURE

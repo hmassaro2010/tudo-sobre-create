@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "diorite_kitchen_drawer",
+      "entries": [
+        {
+          "name": "pfm:diorite_kitchen_drawer",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

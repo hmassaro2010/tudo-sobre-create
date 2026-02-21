@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "bamboo_desk_cabinet_basic",
+      "entries": [
+        {
+          "name": "pfm:bamboo_desk_cabinet_basic",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

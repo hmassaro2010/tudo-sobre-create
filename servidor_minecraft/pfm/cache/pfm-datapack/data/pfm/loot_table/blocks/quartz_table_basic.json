@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "quartz_table_basic",
+      "entries": [
+        {
+          "name": "pfm:quartz_table_basic",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

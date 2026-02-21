@@ -1,0 +1,6 @@
+
+[mods]
+DetailArmorBarReconstructed-5.0.0+1.21.1-neoforge.jar
+rarcompat-1.21-0.9.7.jar.disabled
+reliquified_ars_nouveau-1.21.1-0.6.1.jar.disabled
+reliquified_lenders_cataclysm-1.21.1-0.1.1.jar.disabled

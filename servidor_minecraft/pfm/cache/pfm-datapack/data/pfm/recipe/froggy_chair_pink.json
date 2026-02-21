@@ -1,0 +1,28 @@
+{
+  "group": "chairs",
+  "result": {
+    "id": "pfm:froggy_chair_pink",
+    "count": 4
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:pink_concrete"
+    },
+    {
+      "item": "minecraft:pink_concrete"
+    },
+    {
+      "item": "minecraft:pink_concrete"
+    },
+    {
+      "item": "minecraft:pink_concrete"
+    },
+    {
+      "item": "minecraft:pink_concrete"
+    },
+    {
+      "item": "minecraft:pink_concrete"
+    }
+  ],
+  "type": "pfm:simple_furniture"
+}

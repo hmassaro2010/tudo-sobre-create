@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "blackstone_chair_classic",
+      "entries": [
+        {
+          "name": "pfm:blackstone_chair_classic",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

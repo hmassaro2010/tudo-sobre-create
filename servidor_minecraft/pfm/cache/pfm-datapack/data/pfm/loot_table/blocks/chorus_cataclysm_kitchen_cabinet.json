@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "chorus_cataclysm_kitchen_cabinet",
+      "entries": [
+        {
+          "name": "pfm:chorus_cataclysm_kitchen_cabinet",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

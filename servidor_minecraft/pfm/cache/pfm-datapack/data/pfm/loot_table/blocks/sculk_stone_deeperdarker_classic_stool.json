@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "sculk_stone_deeperdarker_classic_stool",
+      "entries": [
+        {
+          "name": "pfm:sculk_stone_deeperdarker_classic_stool",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

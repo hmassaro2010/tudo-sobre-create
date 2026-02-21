@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "light_wood_coffee_table_classic",
+      "entries": [
+        {
+          "name": "pfm:light_wood_coffee_table_classic",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

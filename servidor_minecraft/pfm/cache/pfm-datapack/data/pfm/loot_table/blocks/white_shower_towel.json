@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "white_shower_towel",
+      "entries": [
+        {
+          "name": "pfm:white_shower_towel",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

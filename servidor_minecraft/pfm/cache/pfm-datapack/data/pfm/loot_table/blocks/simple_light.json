@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "simple_light",
+      "entries": [
+        {
+          "name": "pfm:simple_light",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

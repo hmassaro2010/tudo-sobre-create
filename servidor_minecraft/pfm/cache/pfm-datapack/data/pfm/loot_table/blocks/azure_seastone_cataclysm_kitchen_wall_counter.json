@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "azure_seastone_cataclysm_kitchen_wall_counter",
+      "entries": [
+        {
+          "name": "pfm:azure_seastone_cataclysm_kitchen_wall_counter",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

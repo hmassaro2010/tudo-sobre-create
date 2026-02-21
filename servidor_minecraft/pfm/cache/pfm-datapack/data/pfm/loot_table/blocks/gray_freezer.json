@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "gray_freezer",
+      "entries": [
+        {
+          "name": "pfm:gray_freezer",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

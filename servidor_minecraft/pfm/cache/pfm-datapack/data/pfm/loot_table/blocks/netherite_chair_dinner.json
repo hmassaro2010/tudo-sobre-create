@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "netherite_chair_dinner",
+      "entries": [
+        {
+          "name": "pfm:netherite_chair_dinner",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

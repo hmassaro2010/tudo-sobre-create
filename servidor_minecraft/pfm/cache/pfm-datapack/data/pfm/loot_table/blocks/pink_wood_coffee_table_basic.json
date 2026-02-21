@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "pink_wood_coffee_table_basic",
+      "entries": [
+        {
+          "name": "pfm:pink_wood_coffee_table_basic",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

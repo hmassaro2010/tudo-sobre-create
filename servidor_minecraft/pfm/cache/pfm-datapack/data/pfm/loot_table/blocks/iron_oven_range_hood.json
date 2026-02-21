@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "iron_oven_range_hood",
+      "entries": [
+        {
+          "name": "pfm:iron_oven_range_hood",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

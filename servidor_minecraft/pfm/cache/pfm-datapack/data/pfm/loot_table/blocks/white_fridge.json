@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "white_fridge",
+      "entries": [
+        {
+          "name": "pfm:white_fridge",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

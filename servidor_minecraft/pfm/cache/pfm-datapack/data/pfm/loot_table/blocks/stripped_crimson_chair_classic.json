@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "stripped_crimson_chair_classic",
+      "entries": [
+        {
+          "name": "pfm:stripped_crimson_chair_classic",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}
